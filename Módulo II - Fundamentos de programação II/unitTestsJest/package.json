@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "node": "^19.8.1",
+    "nodejs": "^0.0.0",
+    "test": "^3.3.0"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+
+  ,"scripts": {
+    "test": "jest"
+ }
+}
